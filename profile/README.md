@@ -21,7 +21,7 @@
 Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
 
 - Email: dimflix.official@gmail.com
-- Телеграм: @dimflix_official
+- Телеграм: [@dimflix_official](https://t.me/dimflix_official)
 
 ## Лицензия
 
