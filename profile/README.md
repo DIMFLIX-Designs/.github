@@ -1,28 +1,22 @@
 # My Designs
+Welcome to the DIMFLIX-Designs organization, the place where I share my beautiful design projects! Here you will find my work including logos, UI/UX designs and other creative projects.
 
-Добро пожаловать в организацию "DIMFLIX-Designs" – место, где я делюсь своими красивыми дизайн-проектами! Здесь вы найдете мои работы, включая логотипы, UI/UX дизайны и другие креативные проекты.
+## About Project
+The purpose of this organization is to inspire and share beautiful designs with everyone. Here I will show my skill and style in different areas of design. I hope you will find here not only visual inspiration, but also useful materials for your projects.
 
-## О проекте
+## How to use
+You are free to browse my projects and repositories to get an idea of my style and approach to design. If you like any project, feel free to clone the repository and explore it further. You can also contribute by creating branches and submitting merge requests.
 
-Целью этой организации является вдохновлять и делиться красивыми дизайнами со всеми. Здесь я покажу свое мастерство и стиль в различных областях дизайна. Я надеюсь, что вы найдете здесь не только визуальное вдохновение, но и полезные материалы для своих проектов.
-Я
-## Как использовать
+## Contents
+- Logos
+- UI/UX Designs
+- Other work
 
-Вы можете свободно просматривать мои проекты и репозитории, чтобы получить представление о моем стиле и подходе к дизайну. Если вам понравился какой-либо проект, не стесняйтесь клонировать репозиторий и изучать его подробнее. Вы также можете внести свои вклады, создавая ветки и отправляя запросы на слияние.
+## Contacts
+If you have any questions or suggestions, feel free to contact me:
+- Email address: dimflix.official@gmail.com
+- Telegram: [@dimflix_official](https://t.me/dimflix_official)
+- Github: [DIMFLIX](https://github.com/DIMFLIX)
 
-## Содержание
-
-- Логотипы
-- UI/UX Дизайны
-- Прочие работы
-
-## Контакты
-
-Если у вас есть вопросы или предложения, не стесняйтесь связаться со мной:
-
-- Email: dimflix.official@gmail.com
-- Телеграм: [@dimflix_official](https://t.me/dimflix_official)
-
-## Лицензия
-
-Все проекты в этой организации лицензированы по лицензии MIT, если явно не указано иное.
+## License
+All projects in this organization are licensed under the MIT license unless explicitly stated otherwise.
